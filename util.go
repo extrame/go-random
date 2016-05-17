@@ -1,4 +1,4 @@
-package go-random
+package gorandom
 
 import (
 	"bytes"
