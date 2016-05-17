@@ -1,17 +1,8 @@
 package gorandom
 
 import (
-	"bytes"
-	"crypto/md5"
-	"encoding/binary"
-	_ "errors"
-	"fmt"
-	"io"
 	"math"
 	"math/rand"
-	"net"
-	_ "strconv"
-	_ "strings"
 	"time"
 )
 
